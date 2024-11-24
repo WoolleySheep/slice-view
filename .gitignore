@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# ruff
+.ruff_cache/
+
+#Code editors
+.vscode/
+
+# Environments
+.venv/
